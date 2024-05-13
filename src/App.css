@@ -25,6 +25,7 @@ body {
 }
 
 .game-board button {
+  font-family: "Outfit", sans-serif;
   font-size: 2rem;
   font-weight: 600;
   margin: .1rem;
